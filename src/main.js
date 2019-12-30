@@ -6,7 +6,6 @@ import store from "./store";
 import VueAwesomeSwiper from 'vue-awesome-swiper'
 import formcheck from 'utils/formcheck';
 import request from "./utils/request";
-import  "./utils/resetRem";
 Vue.use(VueAwesomeSwiper)
 Vue.use(formcheck)
 import 'css/common.css';
